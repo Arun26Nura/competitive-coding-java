@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fe26ff-2e89-447b-ad4b-e08090948643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competitive-coding-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/FirstProgram.java" afterDir="false" />
+    <list default="true" id="b1fe26ff-2e89-447b-ad4b-e08090948643" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/FahrenheitConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/InchConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arun/programs/FirstProgram.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,40 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.InchConversion">
+    <configuration name="FahrenheitConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.programs.FahrenheitConversion" />
+      <module name="competitive-coding-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InchConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.programs.InchConversion" />
+      <module name="competitive-coding-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InchConversion" />
+        <item itemvalue="Application.FahrenheitConversion" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,8 +80,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660493893317</updated>
-      <workItem from="1660493895037" duration="49000" />
+      <workItem from="1660493895037" duration="1683000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1660493968739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660493968740</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
