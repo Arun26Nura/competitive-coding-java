@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1fe26ff-2e89-447b-ad4b-e08090948643" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/BodyMassIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/MathematicalActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/MinutesToYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/SequenceOfIndividualNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/Speed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/arun/programs/SquareAndCube.java" afterDir="false" />
+    <list default="true" id="b1fe26ff-2e89-447b-ad4b-e08090948643" name="Changes" comment="programs">
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/CheckPositiveOrNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/GreatestOfThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/NaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/NumberOfDaysInaMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/SumAndAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/ThreeDecimalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/Vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/arun/loops/Weekdays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arun/programs/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arun/programs/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arun/programs/BodyMassIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arun/programs/BodyMassIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/arun/programs/SquareAndCube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/arun/programs/SquareAndCube.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,16 +46,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SequenceOfIndividualNumbers">
-    <configuration name="BodyMassIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arun.programs.BodyMassIndex" />
+  <component name="RunManager" selected="Application.Digits">
+    <configuration name="Digits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.loops.Digits" />
       <module name="competitive-coding-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="PATTERN" value="com.arun.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathematicalActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arun.programs.MathematicalActions" />
+    <configuration name="GreatestOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.loops.GreatestOfThree" />
       <module name="competitive-coding-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="PATTERN" value="com.arun.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenceOfIndividualNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arun.programs.SequenceOfIndividualNumbers" />
+    <configuration name="NumberOfDaysInaMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.loops.NumberOfDaysInaMonth" />
       <module name="competitive-coding-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="PATTERN" value="com.arun.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Speed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arun.programs.Speed" />
+    <configuration name="SumAndAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.loops.SumAndAverage" />
       <module name="competitive-coding-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="PATTERN" value="com.arun.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SquareAndCube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arun.programs.SquareAndCube" />
+    <configuration name="ThreeDecimalPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arun.loops.ThreeDecimalPoints" />
       <module name="competitive-coding-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arun.programs.*" />
+          <option name="PATTERN" value="com.arun.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SequenceOfIndividualNumbers" />
-        <item itemvalue="Application.MathematicalActions" />
-        <item itemvalue="Application.SquareAndCube" />
-        <item itemvalue="Application.Speed" />
-        <item itemvalue="Application.BodyMassIndex" />
+        <item itemvalue="Application.Digits" />
+        <item itemvalue="Application.SumAndAverage" />
+        <item itemvalue="Application.NumberOfDaysInaMonth" />
+        <item itemvalue="Application.ThreeDecimalPoints" />
+        <item itemvalue="Application.GreatestOfThree" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +134,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660493893317</updated>
-      <workItem from="1660493895037" duration="6172000" />
+      <workItem from="1660493895037" duration="7297000" />
+      <workItem from="1660535525497" duration="6735000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1660493968739</created>
@@ -144,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660496459992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="programs">
+      <created>1660501134327</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660501134327</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +177,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="programs" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -18,9 +18,8 @@ public class BodyMassIndex {
         System.out.println("Enter the height:");
         float height= scanner.nextFloat();
 
-        float top= weight*703;
-        float bottom= height*height;
-        float bmi= top/bottom;
+
+        float bmi= (weight*703)/(height*height);
         System.out.println(bmi);
 
 

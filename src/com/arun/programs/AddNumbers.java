@@ -12,6 +12,8 @@ import java.util.Scanner;
  */
 public class AddNumbers {
     public static void main(String[] args) {
+
+
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter a Number between 0 and 1000");
         int number= scanner.nextInt();

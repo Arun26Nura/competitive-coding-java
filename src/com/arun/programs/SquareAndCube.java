@@ -16,7 +16,7 @@ public class SquareAndCube {
         Scanner scanner= new Scanner(System.in);
         System.out.println("Enter a number:");
         int number= scanner.nextInt();
-        System.out.println("Square: "+ number*number);
+        System.out.println("Square: "+  number*number);
         System.out.println("Cube: "+ number*number*number);
         System.out.println("Fourth power: "+ number*number*number*number);
         scanner.close();
